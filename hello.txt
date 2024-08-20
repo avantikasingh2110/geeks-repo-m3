@@ -1,0 +1,5 @@
+We will be learning about Git and it's basic cmds
+
+1.git init, we have initialized the git repository
+
+2. git status, I have checked the status of the repository
