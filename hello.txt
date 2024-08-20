@@ -2,4 +2,6 @@ We will be learning about Git and it's basic cmds
 
 1.git init, we have initialized the git repository
 
-2. git status, I have checked the status of the repository
+2. git status, we have checked the status of the repository
+
+3. git add, we have added the file to the staging area
