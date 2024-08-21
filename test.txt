@@ -2,3 +2,4 @@ this is a test file
 
 git rm --cached hello.txt
 
+this are some changes that I made after pushing the local repo into the remote repo
